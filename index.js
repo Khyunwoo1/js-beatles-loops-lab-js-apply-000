@@ -1,3 +1,5 @@
+/*
+
 function theBeatlesPlay(musicians, instruments) {
   
   var emptyArray = [];
@@ -37,7 +39,7 @@ function johnLennonFacts(lennonArray){
 
 
 
-/*
+*/
 
 function johnLennonFacts(number){
   
@@ -60,5 +62,5 @@ function johnLennonFacts(number){
   
 }
 
-*/
+
 
