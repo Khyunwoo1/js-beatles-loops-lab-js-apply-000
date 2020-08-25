@@ -43,6 +43,7 @@ function johnLennonFacts(lennonArray){
 
 function johnLennonFacts(number){
   
+  var emptyStringTwo = ""
   var emptyArrayTwo = [];
   var i = 0;
 
@@ -51,8 +52,8 @@ function johnLennonFacts(number){
       do{
           i++;
           
-          emptyArrayTwo += "I love the Beatles!"
-  
+          emptyStringTwo += "I love the Beatles!";
+          emptyArrayTwo.push(emptyStringTwo);
       
       
       } while(i < number)
