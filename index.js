@@ -52,7 +52,7 @@ function iLoveTheBeatles(number){
       
           
       
-      } while(i < (number - 15))
+      } while(i < (15 - number))
   
     return emptyArrayTwo;
   }
