@@ -32,11 +32,7 @@ function johnLennonFacts(lennonArray){
     i++;
 }
   return myArray;
-  
-  
-  
-  
-  
+
 }
 
 function johnLennonFacts(number){
