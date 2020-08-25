@@ -56,7 +56,7 @@ function iLoveTheBeatles(number){
       
           
       
-      } while(i < number)
+      } while(i < (number - 15))
   
     return emptyArrayTwo;
   }
