@@ -35,6 +35,10 @@ function johnLennonFacts(lennonArray){
 
 }
 
+
+
+
+
 function johnLennonFacts(number){
   
   var emptyArrayTwo = [];
