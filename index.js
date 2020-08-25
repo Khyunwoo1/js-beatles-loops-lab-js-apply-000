@@ -1,5 +1,3 @@
-/*
-
 function theBeatlesPlay(musicians, instruments) {
   
   var emptyArray = [];
@@ -38,8 +36,6 @@ function johnLennonFacts(lennonArray){
 }
 
 
-
-*/
 
 function iLoveTheBeatles(number){
   
