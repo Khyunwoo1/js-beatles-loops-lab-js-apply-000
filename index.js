@@ -50,11 +50,11 @@ function johnLennonFacts(number){
   if (number < 15){
   
       do{
-          i++;
           
           emptyStringTwo += "I love the Beatles!";
           emptyArrayTwo.push(emptyStringTwo);
       
+          i++;
       
       } while(i < number)
   
