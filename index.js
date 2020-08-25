@@ -51,7 +51,7 @@ function johnLennonFacts(number){
   
       do{
           i++;
-          emptyStringTwo += "I love the Beatles!";
+          emptyStringTwo = "I love the Beatles!";
           emptyArrayTwo.push(emptyStringTwo);
       
           
