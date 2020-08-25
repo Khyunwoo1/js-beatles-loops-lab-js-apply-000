@@ -41,7 +41,7 @@ function johnLennonFacts(lennonArray){
 
 */
 
-function johnLennonFacts(number){
+function iLoveTheBeatles(number){
   
   var emptyStringTwo = ""
   var emptyArrayTwo = [];
