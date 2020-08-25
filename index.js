@@ -33,6 +33,10 @@ function johnLennonFacts(lennonArray){
 }
   return myArray;
   
+  
+  
+  
+  
 }
 
 function johnLennonFacts(number){
