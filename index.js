@@ -57,6 +57,12 @@ function iLoveTheBeatles(number){
     return emptyArrayTwo;
   }
   
+  else {
+    emptyStringTwo = "I love the Beatles!";
+    emptyArrayTwo.push(emptyStringTwo);
+    return emptyArrayTwo;
+  }
+
 }
 
 
