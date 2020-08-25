@@ -37,7 +37,7 @@ function johnLennonFacts(lennonArray){
 
 
 
-
+/*
 
 function johnLennonFacts(number){
   
@@ -60,5 +60,5 @@ function johnLennonFacts(number){
   
 }
 
-
+*/
 
